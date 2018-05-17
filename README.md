@@ -11,3 +11,6 @@ This project uses node/npm to build files, to set up:
 
 Credits:
  To store and retrive the authorisation token I have used a brilliant little script : https://github.com/js-cookie/js-cookie
+
+Additional Sample Code: 
+http://pos2007.de/authentication-13-how-to-authenticate-against-the-content-server-in-restjavascript
